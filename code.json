@@ -1,0 +1,12 @@
+{
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "Dracula",
+    "search.quickOpen.includeSymbols": true,
+    "workbench.layoutControl.enabled": false,
+    "editor.fontFamily": "'FiraCode NF'",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "'FiraCode NF'",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.fontSize": 18
+}
